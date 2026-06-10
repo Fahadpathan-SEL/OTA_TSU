@@ -1,5 +1,5 @@
-VERSION=2.5
-FILE=update_manager_update_v2.5_REV2.zip
-URL=https://raw.githubusercontent.com/Fahadpathan-SEL/OTA_TSU/main/update_manager_update_v2.5_REV2.zip
+VERSION=2.6
+FILE=update_manager_update_v2.6_REV2.zip
+URL=https://raw.githubusercontent.com/Fahadpathan-SEL/OTA_TSU/main/update_manager_update_v2.6_REV2.zip
 CHANGELOG=Fix OTA URL to GitHub
 DATE=2026-06-10
