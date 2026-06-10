@@ -1,5 +1,5 @@
 VERSION=2.4
 FILE=update_manager_update_v2.4_REV2.zip
-URL=http://10.70.41.197:8000/update_manager_update_v1.1_REV2.zip
-CHANGELOG=Fixed GSM stability
-DATE=2026-06-08
+URL=https://raw.githubusercontent.com/Fahadpathan-SEL/OTA_TSU/main/update_manager_update_v2.4_REV2.zip
+CHANGELOG=Fix OTA URL to GitHub
+DATE=2026-06-10
